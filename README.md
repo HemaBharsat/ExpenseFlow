@@ -15,13 +15,7 @@ Clone the project
   git clone https://github.com/HemaBharsat/ExpenseFlow
 ```
 
-Go to the project directory
-
-```bash
-  cd my-app
-```
-
-Install dependencies
+Go to the project directory and Install dependencies
 
 ```bash
   npm install
